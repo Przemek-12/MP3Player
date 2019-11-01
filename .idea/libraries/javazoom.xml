@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="javazoom">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JLayer1.0.1/jl1.0.1.jar!/javazoom" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
